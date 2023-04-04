@@ -1,2 +1,3 @@
 # LAZY-FTP-BRUTTER
-Bash script wich automaticly will find open ftp port, download wordlist and bruteforce it for you.
+Bash script which automatically finds an open ftp ports, download wordlist and brute force it for you.
+Don't forget to chmod +x it.
